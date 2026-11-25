@@ -1,1 +1,5 @@
-# Quinn-JazzConcert-Catalogue
+# 爵妙人生 · 电子场刊
+
+中文爵士音乐会电子场刊。入口为 `index.html`，可在浏览器中直接打开。
+
+节目单、曲目介绍和听歌推荐逻辑维护在 `catalogue.js`。

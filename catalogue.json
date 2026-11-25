@@ -1,0 +1,1782 @@
+{
+  "concert": {
+    "title": "爵妙人生",
+    "subtitle": "苗梦初 × RJ爵士大乐团",
+    "date": "2026-11-28",
+    "time": "19:30",
+    "venue": "久事·上海商城剧院",
+    "vocalist": "苗梦初（爵士好猫）",
+    "band": "RJ爵士大乐团（RJ Big Band）"
+  },
+  "songs": [
+    {
+      "title": "In the Mood",
+      "title_note": "高阶版",
+      "song_id": "in-the-mood",
+      "form": "instrumental",
+      "writers": "Joe Garland / Andy Razaf / Wingy Manone",
+      "set": "上半场",
+      "order": 1,
+      "sections": [],
+      "intro": "舞池、铜管、摇摆的脚步，伴随跃动的节奏，拉开爵士之夜的序幕。",
+      "origin": "1938年首次录制，由 Decca Records 发行。"
+    },
+    {
+      "title": "That Sunday, That Summer",
+      "song_id": "that-sunday-that-summer",
+      "form": "instrumental",
+      "writers": "Joe Sherman / George David Weiss",
+      "set": "上半场",
+      "order": 2,
+      "sections": [],
+      "intro": "夏日午后、斑驳树影、记忆中的某个星期天，一段被时光珍藏的温柔往事。",
+      "origin": "收录于1963年专辑《Those Lazy-Hazy-Crazy Days of Summer》。"
+    },
+    {
+      "title": "Puttin’ on the Ritz",
+      "song_id": "puttin-on-the-ritz",
+      "form": "vocal",
+      "writers": "Irving Berlin",
+      "set": "上半场",
+      "order": 3,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "If you're blue and you don't know where to go to",
+              "zh": "要是你心情低落，又不知该往哪里去"
+            },
+            {
+              "en": "Why don't you go where fashion sits？",
+              "zh": "为什么你不去那时尚璀璨之地"
+            },
+            {
+              "en": "Puttin' on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Different types who wear a day coat,pants with stripes",
+              "zh": "瞧那些穿着日间礼服、条纹长裤的各色人等"
+            },
+            {
+              "en": "And cutaway coat,perfect fits",
+              "zh": "燕尾晨礼服也件件合身"
+            },
+            {
+              "en": "Puttin' on the Ritz",
+              "zh": "带上你的里兹范儿"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Dressed up like a million-dollar trooper",
+              "zh": "穿得像身价百万的大人物"
+            },
+            {
+              "en": "Tryin' hard to look like Gary Cooper(super-duper)",
+              "zh": "拼命摆出加里·库珀的派头（真神气！）"
+            },
+            {
+              "en": "Come, let's mix where Rockefellers walk with sticks",
+              "zh": "来，咱们也去凑个热闹，看洛克菲勒家的阔佬拄着手杖"
+            },
+            {
+              "en": "Or umberella in their mitts",
+              "zh": "或是手里握着一把伞"
+            },
+            {
+              "en": "Puttin' on the Ritz",
+              "zh": "带上你的里兹范儿"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Have you seen the well-to-do, up-and-down Park Avenue?",
+              "zh": "你可见过那些有钱人在公园大道上来来往往？"
+            },
+            {
+              "en": "On that famous thoroughfare with their noses in the air",
+              "zh": "在那条有名的大街上，人人都高高昂着头"
+            },
+            {
+              "en": "High hats and Arrow collars, white spats and lots of dollars",
+              "zh": "高礼帽、箭牌衬领、白鞋罩，口袋里钞票满满"
+            },
+            {
+              "en": "Spending every dime for a wonderful time",
+              "zh": "为了玩个痛快，花光每一分钱"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "If you're blue and you don't know where to go to",
+              "zh": "要是你心情低落，又不知该往哪里去"
+            },
+            {
+              "en": "Why don't you go where fashion sits?",
+              "zh": "为什么你不去那时尚璀璨之地"
+            },
+            {
+              "en": "Puttin' on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Different types who wear a day coat, pants with stripes",
+              "zh": "瞧那些穿着日间礼服、条纹长裤的各色人等"
+            },
+            {
+              "en": "And cutaway coat,perfect fits",
+              "zh": "燕尾晨礼服也件件合身"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Dressed up like a million-dollar trooper",
+              "zh": "穿得像身价百万的大人物"
+            },
+            {
+              "en": "Tryin' hard to look like Gary Cooper (super-duper)",
+              "zh": "拼命摆出加里·库珀的派头（真神气！）"
+            },
+            {
+              "en": "Come, let's mix where Rockefellers walk with sticks",
+              "zh": "来，咱们也去凑个热闹，看洛克菲勒家的阔佬拄着手杖"
+            },
+            {
+              "en": "Or umberellas in their mitts",
+              "zh": "或是手里握着雨伞"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Dressed up like a million-dollar trooper",
+              "zh": "穿得像身价百万的大人物"
+            },
+            {
+              "en": "Tryin' hard to look like Gary Cooper (super-duper)",
+              "zh": "拼命摆出加里·库珀的派头（真神气！）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "If you're blue and you don't know where to go to",
+              "zh": "要是你心情低落，又不知该往哪里去"
+            },
+            {
+              "en": "Why don't you go where fashion sits?",
+              "zh": "为什么你不去那时尚璀璨之地"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Downtown, uptown",
+              "zh": "从下城，到上城"
+            },
+            {
+              "en": "Get your kicks at the Ritz",
+              "zh": "来丽兹找点乐子"
+            },
+            {
+              "en": "Dine and wine, but not'til nine",
+              "zh": "喝酒，赴宴，可得等到九点"
+            },
+            {
+              "en": "The time is right for us tonight",
+              "zh": "今晚正是咱俩的好时候"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "We can move, move to the rhythm",
+              "zh": "我们可以动起来，跟着节奏动起来"
+            },
+            {
+              "en": "We can",
+              "zh": "我们可以"
+            },
+            {
+              "en": "Move, dance to the rhythm",
+              "zh": "动起来，踩着节奏跳起来"
+            },
+            {
+              "en": "(Nice and easy)",
+              "zh": "（放轻松，慢慢来）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "I want you to move",
+              "zh": "我想看你动起来"
+            },
+            {
+              "en": "Putit on,puttin'it on,puttin'it on,puttin'it on",
+              "zh": "打扮起来，打扮起来，打扮起来，打扮起来"
+            },
+            {
+              "en": "The R-I-T-Z",
+              "zh": "丽兹，R-I-T-Z"
+            },
+            {
+              "en": "How about you and me says-",
+              "zh": "你和我，不如一起说——"
+            },
+            {
+              "en": "Gotta dance",
+              "zh": "非跳不可"
+            },
+            {
+              "en": "Gotta dance",
+              "zh": "非跳不可"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "If you're blue and you don't know where to go to",
+              "zh": "要是你心情低落，又不知该往哪里去"
+            },
+            {
+              "en": "Why don't you go where fashion sits?",
+              "zh": "为什么你不去那时尚璀璨之地"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            },
+            {
+              "en": "Puttin'on the Ritz",
+              "zh": "带上你的里兹范儿"
+            }
+          ]
+        }
+      ],
+      "intro": "华服、礼帽、霓虹灯与都市夜生活，一场摩登时代的华丽舞步。",
+      "origin": "1929年首次出版乐谱，1930年登上同名歌舞电影。"
+    },
+    {
+      "title": "Fever",
+      "song_id": "fever",
+      "form": "vocal",
+      "writers": "Eddie Cooley / Otis Blackwell",
+      "set": "上半场",
+      "order": 4,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "Never know how much I love you",
+              "zh": "从来不知道我多么爱你"
+            },
+            {
+              "en": "Never know how much I care",
+              "zh": "从来不知道我多么在乎你"
+            },
+            {
+              "en": "When you put your arms around me",
+              "zh": "当你用手臂环抱我时"
+            },
+            {
+              "en": "I get a fever that's so hard to bear",
+              "zh": "我感觉到一阵难以忍受的躁动"
+            },
+            {
+              "en": "You give me fever",
+              "zh": "你让我发烧"
+            },
+            {
+              "en": "When you kiss me",
+              "zh": "就在你吻我的时候"
+            },
+            {
+              "en": "Fever when you hold me tight",
+              "zh": "你紧紧抱住我的时候我感觉发烧了"
+            },
+            {
+              "en": "Fever in the morning",
+              "zh": "早上发烧"
+            },
+            {
+              "en": "Fever all through the night",
+              "zh": "整夜都在发烧"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Sun lights up the daytime",
+              "zh": "太阳照耀了白昼"
+            },
+            {
+              "en": "Moon lights up the night",
+              "zh": "月亮点亮了夜空"
+            },
+            {
+              "en": "I light up when you call my name",
+              "zh": "你喊我的名字点亮了我的世界"
+            },
+            {
+              "en": "And I know you're gonna treat me right",
+              "zh": "我知道你会好好待我"
+            },
+            {
+              "en": "You give me fever",
+              "zh": "你让我发烧"
+            },
+            {
+              "en": "When you kiss me",
+              "zh": "就在你吻我的时候"
+            },
+            {
+              "en": "Fever when you hold me tight",
+              "zh": "你紧紧抱住我的时候我感觉发烧了"
+            },
+            {
+              "en": "Fever in the morning",
+              "zh": "早上发烧"
+            },
+            {
+              "en": "Fever all through the night",
+              "zh": "整夜都在发烧"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Everybody's got the fever",
+              "zh": "每个人都在发烧"
+            },
+            {
+              "en": "That is something you all know",
+              "zh": "你们都知道的"
+            },
+            {
+              "en": "Fever isn't such a new thing",
+              "zh": "发烧并不是什么新鲜事"
+            },
+            {
+              "en": "Fever started long ago",
+              "zh": "从很早之前就有"
+            }
+          ]
+        },
+        {
+          "symbol": "🎵"
+        },
+        {
+          "lines": [
+            {
+              "en": "Romeo loved Juliet",
+              "zh": "罗密欧爱着朱丽叶"
+            },
+            {
+              "en": "Juliet she felt the same",
+              "zh": "朱丽叶也对他情意相同"
+            },
+            {
+              "en": "When he put his arms around her",
+              "zh": "当他环抱她的时候"
+            },
+            {
+              "en": "He said, \"Julie, baby, you are my flame\"",
+              "zh": "他说：“朱丽叶，亲爱的，你是我的火焰。”"
+            },
+            {
+              "en": "Now give me fever",
+              "zh": "现在就让我发烧吧"
+            },
+            {
+              "en": "When you kiss me",
+              "zh": "就在你吻我的时候"
+            },
+            {
+              "en": "Fever with a flame in you",
+              "zh": "你心里的火焰也烧得滚烫"
+            },
+            {
+              "en": "Fever, I'm on fire",
+              "zh": "发烧，我浑身都在燃烧"
+            },
+            {
+              "en": "Fever, yeah, I burn for sooth",
+              "zh": "发烧，是啊，我真的在燃烧"
+            }
+          ]
+        },
+        {
+          "symbol": "🎵"
+        },
+        {
+          "lines": [
+            {
+              "en": "Captain Smith and Pocahontas",
+              "zh": "史密斯船长和波卡洪塔斯"
+            },
+            {
+              "en": "Had a very mad affair",
+              "zh": "有一段非常疯狂的恋情"
+            },
+            {
+              "en": "When her daddy tried to kill him",
+              "zh": "当她的父亲准备杀死他时"
+            },
+            {
+              "en": "She said, \"Daddy, oh, don't you dare\"",
+              "zh": "她说：“爸爸，你可别这么做。”"
+            },
+            {
+              "en": "You give me fever",
+              "zh": "你让我发烧"
+            },
+            {
+              "en": "With his kisses",
+              "zh": "就在他吻我的时候"
+            },
+            {
+              "en": "Fever when he holds me tight",
+              "zh": "他紧紧抱住我的时候我感觉发烧了"
+            },
+            {
+              "en": "Fever, I'm his missus",
+              "zh": "发烧，我是他的人"
+            },
+            {
+              "en": "Daddy, won't you treat him right?",
+              "zh": "爸爸，你能不能好好待他？"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Now you've listened to my story",
+              "zh": "现在你听了我的故事"
+            },
+            {
+              "en": "Here's the point that I have made",
+              "zh": "这就是我想表达的重点"
+            },
+            {
+              "en": "Chicks were born to give you fever",
+              "zh": "姑娘们生来便能让你发烧"
+            },
+            {
+              "en": "Be it Fahrenheit or centigrade",
+              "zh": "无论是华氏度还是摄氏度"
+            },
+            {
+              "en": "They give you fever",
+              "zh": "她们让你发烧"
+            },
+            {
+              "en": "When you kiss them",
+              "zh": "就在你吻她们的时候"
+            },
+            {
+              "en": "Fever if you live and learn",
+              "zh": "只要活着、经历着，就会发烧"
+            },
+            {
+              "en": "Fever 'til I sizzle",
+              "zh": "烧得我浑身滚烫"
+            },
+            {
+              "en": "What a lovely way to burn",
+              "zh": "多么可爱的燃烧方式"
+            },
+            {
+              "en": "What a lovely way to burn",
+              "zh": "多么可爱的燃烧方式"
+            },
+            {
+              "en": "What a lovely way to burn",
+              "zh": "多么可爱的燃烧方式"
+            },
+            {
+              "en": "What a lovely way to burn",
+              "zh": "多么可爱的燃烧方式"
+            }
+          ]
+        }
+      ],
+      "intro": "昏黄的灯光、轻巧的响指、若即若离的心动，空气在不经意间升温。",
+      "origin": "1956年由 King Records 首次发行单曲。"
+    },
+    {
+      "title": "Unforgettable",
+      "song_id": "unforgettable",
+      "form": "vocal",
+      "writers": "Irving Gordon",
+      "set": "上半场",
+      "order": 5,
+      "sections": [
+        {
+          "section": "Verse 1",
+          "lines": [
+            {
+              "en": "Unforgettable, that's what you are",
+              "zh": "难以忘却，那就是你"
+            },
+            {
+              "en": "Unforgettable though near or far",
+              "zh": "无法忘怀，无论远近"
+            },
+            {
+              "en": "Like a song of love that clings to me",
+              "zh": "宛若一首萦绕心头、与我相依的情歌"
+            },
+            {
+              "en": "How the thought of you does things to me",
+              "zh": "一想到你，我的心便泛起怎样的波澜"
+            },
+            {
+              "en": "Never before has someone been more",
+              "zh": "从未有谁比你更——"
+            }
+          ]
+        },
+        {
+          "section": "Chorus",
+          "lines": [
+            {
+              "en": "Unforgettable in every way",
+              "zh": "难以忘怀，无论哪个方面"
+            },
+            {
+              "en": "And forever more, that's how you'll stay",
+              "zh": "并且永远如此，你将这样留驻我心"
+            },
+            {
+              "en": "That's why, darling, it's incredible",
+              "zh": "这就是为什么，亲爱的，这一切如此不可思议"
+            },
+            {
+              "en": "That someone so unforgettable",
+              "zh": "那个如此令人难忘的人"
+            },
+            {
+              "en": "Thinks that I am unforgettable too",
+              "zh": "竟也觉得我同样难以忘怀"
+            }
+          ]
+        },
+        {
+          "section": "Chorus (Repeat)",
+          "lines": [
+            {
+              "en": "Unforgettable in every way",
+              "zh": "难以忘怀，无论哪个方面"
+            },
+            {
+              "en": "And forever more, that's how you'll stay",
+              "zh": "并且永远如此，你将这样留驻我心"
+            },
+            {
+              "en": "That's why, darling, it's incredible",
+              "zh": "这就是为什么，亲爱的，这一切如此不可思议"
+            },
+            {
+              "en": "That someone so unforgettable",
+              "zh": "那个如此令人难忘的人"
+            },
+            {
+              "en": "Thinks that I am unforgettable too",
+              "zh": "竟也觉得我同样难以忘怀"
+            }
+          ]
+        }
+      ],
+      "intro": "旧唱片、泛黄的照片、记忆中不曾褪色的身影，时间也无法冲淡的思念。",
+      "origin": "1951年首次发行单曲，后收录于1952年同名专辑。"
+    },
+    {
+      "title": "Too Close for Comfort",
+      "title_note": "百老汇音乐剧版",
+      "song_id": "too-close-for-comfort",
+      "form": "vocal",
+      "writers": "Larry Holofcener / Jerry Bock / George David Weiss",
+      "set": "上半场",
+      "order": 6,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "Be wise, be smart",
+              "zh": "机灵点，聪明点"
+            },
+            {
+              "en": "Behave, my heart",
+              "zh": "我的心啊，规矩点"
+            },
+            {
+              "en": "Don't upset your cart",
+              "zh": "别乱了方寸"
+            },
+            {
+              "en": "When she's so close",
+              "zh": "尤其当她靠得这么近"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Be soft, be sweet",
+              "zh": "温柔些，体贴些"
+            },
+            {
+              "en": "But be discreet",
+              "zh": "可也得有分寸"
+            },
+            {
+              "en": "Don't go off your feet",
+              "zh": "别被迷得晕头转向"
+            },
+            {
+              "en": "She's too close for comfort",
+              "zh": "她靠得太近，叫我心慌"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Too close, too close for comfort",
+              "zh": "太近了，近得叫我心慌"
+            },
+            {
+              "en": "Oh, please not again",
+              "zh": "噢，求你了，别再来一回"
+            },
+            {
+              "en": "Too close, too close to know when to say when",
+              "zh": "靠得这么近，连何时该喊停都拿不准"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Be firm, be fair",
+              "zh": "要坚定，也要公道"
+            },
+            {
+              "en": "Be absolutely sure, beware",
+              "zh": "拿准主意，留点神"
+            },
+            {
+              "en": "On your guard, take care",
+              "zh": "提高警惕，小心些"
+            },
+            {
+              "en": "While there's such temptation",
+              "zh": "眼前的诱惑如此动人"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "One thing leads to another",
+              "zh": "一桩心事牵出下一桩"
+            },
+            {
+              "en": "Too late to run for cover",
+              "zh": "这时候想躲，已经太迟"
+            },
+            {
+              "en": "She's much too close for comfort now",
+              "zh": "她现在靠得实在太近，我再也沉不住气"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Be wise, be smart",
+              "zh": "机灵点，聪明点"
+            },
+            {
+              "en": "Behave, my heart",
+              "zh": "我的心啊，规矩点"
+            },
+            {
+              "en": "Don't upset your cart",
+              "zh": "别乱了方寸"
+            },
+            {
+              "en": "When she's so close",
+              "zh": "尤其当她靠得这么近"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Be soft, be sweet",
+              "zh": "温柔些，体贴些"
+            },
+            {
+              "en": "But be discreet",
+              "zh": "可也得有分寸"
+            },
+            {
+              "en": "Don't go off your feet",
+              "zh": "别被迷得晕头转向"
+            },
+            {
+              "en": "She's too close for comfort",
+              "zh": "她靠得太近，叫我心慌"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Too close, too close for comfort",
+              "zh": "太近了，近得叫我心慌"
+            },
+            {
+              "en": "Oh, please not again",
+              "zh": "噢，求你了，别再来一回"
+            },
+            {
+              "en": "Too close, too close to know when to say when",
+              "zh": "靠得这么近，连何时该喊停都拿不准"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Be firm, be fair",
+              "zh": "要坚定，也要公道"
+            },
+            {
+              "en": "On your guard, take care",
+              "zh": "提高警惕，小心些"
+            },
+            {
+              "en": "While there's such temptation",
+              "zh": "眼前的诱惑如此动人"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "One thing leads to another",
+              "zh": "一桩心事牵出下一桩"
+            },
+            {
+              "en": "Too late to run for cover",
+              "zh": "这时候想躲，已经太迟"
+            },
+            {
+              "en": "She's much too close for comfort now",
+              "zh": "她现在靠得实在太近，我再也沉不住气"
+            }
+          ]
+        }
+      ],
+      "intro": "欲言又止的对话、悄然缩短的距离，一场心动与理智之间的俏皮较量。",
+      "origin": "出自1956年百老汇音乐剧《Mr. Wonderful》。"
+    },
+    {
+      "title": "Get Happy",
+      "song_id": "get-happy",
+      "form": "vocal",
+      "writers": "Ted Koehler（词）/ Harold Arlen（曲）",
+      "set": "上半场",
+      "order": 7,
+      "sections": [
+        {
+          "section": "Verse 1",
+          "lines": [
+            {
+              "en": "Pack up your troubles and just get happy",
+              "zh": "收拾好你的烦恼，只管快乐起来"
+            },
+            {
+              "en": "Ya better chase all your cares away",
+              "zh": "快把所有烦忧都驱散"
+            },
+            {
+              "en": "Sing Hallelujah, c'mon get happy",
+              "zh": "高唱哈利路亚，来吧，快乐起来"
+            },
+            {
+              "en": "Get ready for the judgment day",
+              "zh": "准备迎接审判之日"
+            }
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "lines": [
+            {
+              "en": "The sun is shinin', c'mon get happy",
+              "zh": "阳光灿烂，来吧，快乐起来"
+            },
+            {
+              "en": "The Lord is waiting to take your hand",
+              "zh": "主正等候牵起你的手"
+            },
+            {
+              "en": "Shout Hallelujah, c'mon get happy",
+              "zh": "高声呼喊哈利路亚，来吧，快乐起来"
+            },
+            {
+              "en": "We're goin' to the Promised Land",
+              "zh": "我们将要奔赴应许之地"
+            }
+          ]
+        },
+        {
+          "section": "Bridge",
+          "lines": [
+            {
+              "en": "We're headin' 'cross the river",
+              "zh": "我们将要渡过那条河"
+            },
+            {
+              "en": "Gonna wash our sins in the tide",
+              "zh": "让潮水洗去我们所有罪孽"
+            },
+            {
+              "en": "It's all so peaceful",
+              "zh": "彼岸一片"
+            },
+            {
+              "en": "On the other side",
+              "zh": "安宁祥和"
+            }
+          ]
+        },
+        {
+          "section": "Verse 1 (Repeat)",
+          "lines": [
+            {
+              "en": "Forget your troubles and just get happy",
+              "zh": "忘掉你的烦恼，只管快乐起来"
+            },
+            {
+              "en": "Ya better chase all your cares away",
+              "zh": "快把所有烦忧都驱散"
+            },
+            {
+              "en": "Sing Hallelujah, c'mon get happy",
+              "zh": "高唱哈利路亚，来吧，快乐起来"
+            },
+            {
+              "en": "Get ready for the judgment day",
+              "zh": "准备迎接审判之日"
+            }
+          ]
+        },
+        {
+          "section": "Verse 2 (Repeat)",
+          "lines": [
+            {
+              "en": "The sun is shinin', c'mon get happy",
+              "zh": "阳光灿烂，来吧，快乐起来"
+            },
+            {
+              "en": "The Lord is waiting to take your hand",
+              "zh": "主正等候牵起你的手"
+            },
+            {
+              "en": "Shout Hallelujah, c'mon get happy",
+              "zh": "高声呼喊哈利路亚，来吧，快乐起来"
+            },
+            {
+              "en": "We're goin' to the Promised Land",
+              "zh": "我们将要奔赴应许之地"
+            }
+          ]
+        },
+        {
+          "section": "Bridge (Repeat)",
+          "lines": [
+            {
+              "en": "We're headin' 'cross the river",
+              "zh": "我们将要渡过那条河"
+            },
+            {
+              "en": "Wash our sins away in the tide",
+              "zh": "让潮水洗去我们所有罪孽"
+            },
+            {
+              "en": "It's all so peaceful",
+              "zh": "彼岸一片"
+            },
+            {
+              "en": "On the other side",
+              "zh": "安宁祥和"
+            }
+          ]
+        },
+        {
+          "section": "Bridge (Repeat 2)",
+          "lines": [
+            {
+              "en": "We're headin' 'cross the river",
+              "zh": "我们将要渡过那条河"
+            },
+            {
+              "en": "Wash our sins away in the tide",
+              "zh": "让潮水洗去我们所有罪孽"
+            },
+            {
+              "en": "It's all so peaceful",
+              "zh": "彼岸一片"
+            },
+            {
+              "en": "On the other side",
+              "zh": "安宁祥和"
+            }
+          ]
+        },
+        {
+          "section": "Outro",
+          "lines": [
+            {
+              "en": "Forget your troubles and just get happy",
+              "zh": "忘掉你的烦恼，只管快乐起来"
+            },
+            {
+              "en": "Ya better chase your cares away!!",
+              "zh": "快把烦忧统统驱散！！"
+            },
+            {
+              "en": "Sing Hallelujah, c'mon get happy",
+              "zh": "高唱哈利路亚，来吧，快乐起来"
+            },
+            {
+              "en": "Get ready for the judgment day",
+              "zh": "准备迎接审判之日"
+            }
+          ]
+        }
+      ],
+      "intro": "明亮的舞台、跃动的脚步、一扫阴霾的笑容，让烦恼暂时退场。",
+      "origin": "出自1930年百老汇歌舞秀《The Nine-Fifteen Revue》。"
+    },
+    {
+      "title": "神秘人",
+      "song_id": "mystery-guest",
+      "detail_title": "乐器演奏",
+      "intro": "神秘人乐器演奏",
+      "form": "mystery",
+      "set": "上半场",
+      "order": 8,
+      "sections": []
+    },
+    {
+      "title": "A Few Good Men",
+      "song_id": "a-few-good-men",
+      "form": "instrumental",
+      "writers": "—",
+      "set": "下半场",
+      "order": 9,
+      "sections": [],
+      "intro": "错落的节拍、交锋的旋律、默契的应答，在律动中展开一场自由的音乐对话。",
+      "origin": "收录于2001年专辑《Swingin’ for the Fences》。"
+    },
+    {
+      "title": "Every Night at Seven",
+      "song_id": "every-night-at-seven",
+      "form": "vocal",
+      "writers": "Alan Jay Lerner（词）/ Burton Lane（曲）· 出自电影《Royal Wedding》(1951)",
+      "set": "下半场",
+      "order": 10,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "My royal day can be a royal bore,",
+              "zh": "我这王室日常无聊透顶"
+            },
+            {
+              "en": "It leaves me colder than a basement floor!",
+              "zh": "冷得比地窖的地板还冰"
+            },
+            {
+              "en": "The only moment I keep waiting for",
+              "zh": "我唯一盼着的那一刻"
+            },
+            {
+              "en": "Is when the day will be through.",
+              "zh": "就是这一天终于过完"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "I never notice if it’s dark or clear,",
+              "zh": "天晴天阴我全不在意"
+            },
+            {
+              "en": "What people say to me I hardly hear,",
+              "zh": "别人对我说话我也几乎听不见"
+            },
+            {
+              "en": "The passing hours are an endless year,",
+              "zh": "流逝的时光漫长得像一整年"
+            },
+            {
+              "en": "Until at last I’m alone with you!",
+              "zh": "直到最后，只剩我和你"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Every night at seven,",
+              "zh": "每晚七点"
+            },
+            {
+              "en": "You walk in as fresh as clover",
+              "zh": "你像刚摘的苜蓿一样清新地推门进来"
+            },
+            {
+              "en": "And I begin to sigh all over again!",
+              "zh": "我又忍不住叹一口气"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Every night at seven,",
+              "zh": "每晚七点"
+            },
+            {
+              "en": "You come by like May returning",
+              "zh": "你像五月归来般经过"
+            },
+            {
+              "en": "And me oh my, I start in yearning again!",
+              "zh": "哎呀呀，我又开始想你了"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "You seem to bring",
+              "zh": "你仿佛把"
+            },
+            {
+              "en": "Faraway spring near me.",
+              "zh": "遥远的春天带到我身边"
+            },
+            {
+              "en": "I’m always in full bloom",
+              "zh": "只要你在屋里"
+            },
+            {
+              "en": "When you’re in the room.",
+              "zh": "我就一直盛开着"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Every night at seven,",
+              "zh": "每晚七点"
+            },
+            {
+              "en": "Every time the same thing happens,",
+              "zh": "每次都是同样的事发生"
+            },
+            {
+              "en": "I fall once again in love,",
+              "zh": "我又一次坠入爱河"
+            },
+            {
+              "en": "But only with you!",
+              "zh": "可只对你一个人"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Every night at seven,",
+              "zh": "每晚七点"
+            },
+            {
+              "en": "Every time the same thing happens,",
+              "zh": "每次都是同样的事发生"
+            },
+            {
+              "en": "I fall once again in love,",
+              "zh": "我又一次坠入爱河"
+            },
+            {
+              "en": "But only with you!",
+              "zh": "可只对你一个人"
+            }
+          ]
+        }
+      ],
+      "intro": "傍晚七点的钟声、准时赴约的脚步，平凡日常中恰到好处的浪漫。",
+      "origin": "出自1951年歌舞电影《Royal Wedding》。"
+    },
+    {
+      "title": "When I Fall in Love",
+      "song_id": "when-i-fall-in-love",
+      "form": "vocal",
+      "writers": "Edward Heyman（词）/ Victor Young（曲）· 对唱版（Clive Griffin / Celine Dion）",
+      "set": "下半场",
+      "order": 11,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "when I fall in love",
+              "zh": "当我坠入爱河"
+            },
+            {
+              "en": "it will be forever",
+              "zh": "将会是永恒的"
+            },
+            {
+              "en": "or I'll never fall in love",
+              "zh": "否则我决不会坠入爱河"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "in a restless world like this is",
+              "zh": "在这个躁动不安的世界里"
+            },
+            {
+              "en": "love is ended before it's begun",
+              "zh": "爱还没开始就已被湮没"
+            },
+            {
+              "en": "and too many moonlight kisses",
+              "zh": "那么多如月光般浪漫的亲吻"
+            },
+            {
+              "en": "seem to cool in the warmth of the sun",
+              "zh": "似乎在温暖的阳光中也变得冰冷"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "when I give my heart",
+              "zh": "当我付出真心"
+            },
+            {
+              "en": "it will be completely",
+              "zh": "那将会是不遗余力"
+            },
+            {
+              "en": "or I'll never give my heart",
+              "zh": "或者我一点也不付出"
+            },
+            {
+              "en": "(I'll never give my heart)",
+              "zh": "（我一点也不付出）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "At the moment",
+              "zh": "在某个时刻"
+            },
+            {
+              "en": "I can feel that you feel that way too",
+              "zh": "我能感觉到你也有同样的心意"
+            },
+            {
+              "en": "I can feel that you feel that way too",
+              "zh": "我能感觉到你也有同样的心意"
+            },
+            {
+              "en": "(I feel that way too)",
+              "zh": "（我也有同样的心意）"
+            },
+            {
+              "en": "it's when I fall in love with you",
+              "zh": "这就是我与你坠入爱河的时刻"
+            },
+            {
+              "en": "（I fall in love with you）",
+              "zh": "（我与你坠入爱河）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "When I fall in love",
+              "zh": "当我坠入爱河"
+            },
+            {
+              "en": "it will be forever",
+              "zh": "将会是永恒的"
+            },
+            {
+              "en": "or I'll never fall in love",
+              "zh": "否则我决不会坠入爱河"
+            },
+            {
+              "en": "(Oh, I'll never never fall in love)",
+              "zh": "（哦，我决不决不坠入爱河）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "in a restless world like this is",
+              "zh": "在这个躁动不安的世界里"
+            },
+            {
+              "en": "love is ended before it's begun",
+              "zh": "爱还没开始就已被湮没"
+            },
+            {
+              "en": "and too many moonlight kisses",
+              "zh": "那么多如月光般浪漫的亲吻"
+            },
+            {
+              "en": "seem to coolling the warmth of the sun",
+              "zh": "仿佛在暖阳里渐渐冷却"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "when I give my heart",
+              "zh": "当我付出真心"
+            },
+            {
+              "en": "it will be completely",
+              "zh": "那将会是不遗余力"
+            },
+            {
+              "en": "or I'll never give my heart",
+              "zh": "或者我一点也不付出"
+            },
+            {
+              "en": "(Oh, I've never give my heart )",
+              "zh": "（噢，我从未交出过我的心）"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "At the moment",
+              "zh": "在某个时刻"
+            },
+            {
+              "en": "I can feel that",
+              "zh": "我能感觉到"
+            },
+            {
+              "en": "you feel that way too",
+              "zh": "你也有同样的心意"
+            },
+            {
+              "en": "it's when I fall in love",
+              "zh": "这就是我坠入爱河的时刻"
+            },
+            {
+              "en": "when I fall in love",
+              "zh": "当我坠入爱河"
+            },
+            {
+              "en": "when I fall in love with you",
+              "zh": "当我与你坠入爱河"
+            }
+          ]
+        }
+      ],
+      "intro": "静谧的夜晚、缓缓流淌的旋律，一份不急于开始、也不轻易结束的爱情。",
+      "origin": "源自1952年电影《One Minute to Zero》的器乐主题。"
+    },
+    {
+      "title": "A Natural Woman",
+      "song_id": "natural-woman",
+      "form": "vocal",
+      "writers": "Carole King / Gerry Goffin / Jerry Wexler",
+      "set": "下半场",
+      "order": 12,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "Looking out on the morning rain",
+              "zh": "看着窗外的晨雨"
+            },
+            {
+              "en": "I used to feel so uninspired",
+              "zh": "我过去总是觉得提不起劲"
+            },
+            {
+              "en": "And when I knew",
+              "zh": "而当我知道"
+            },
+            {
+              "en": "I had to face another day",
+              "zh": "我又得面对接下来的一天"
+            },
+            {
+              "en": "Lord it made me feel so tired",
+              "zh": "主啊，这让我疲惫万分"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Before the day I met you",
+              "zh": "在我遇见你之前"
+            },
+            {
+              "en": "life was so unkind",
+              "zh": "生活对我是如此苛刻"
+            },
+            {
+              "en": "But you're the key",
+              "zh": "但你就是那把钥匙"
+            },
+            {
+              "en": "to my peace of mind",
+              "zh": "打开我心底安宁的钥匙"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "'Cause you make me feel",
+              "zh": "因为你让我感觉"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "like a natural woman",
+              "zh": "自己像一个天生的女人"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "When my soul was in the lost",
+              "zh": "当我的灵魂成了失物"
+            },
+            {
+              "en": "and found",
+              "zh": "躺在招领处"
+            },
+            {
+              "en": "You came along to claim it",
+              "zh": "你走来将它认领"
+            },
+            {
+              "en": "I didn't know just",
+              "zh": "我那时并不清楚"
+            },
+            {
+              "en": "what was wrong with me",
+              "zh": "我到底出了什么问题"
+            },
+            {
+              "en": "'Til your kiss helped me name it",
+              "zh": "直到你的吻帮我为它命名"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Now I'm no longer doubtful of",
+              "zh": "如今我已不再怀疑"
+            },
+            {
+              "en": "what I'm living for",
+              "zh": "我究竟为何而活"
+            },
+            {
+              "en": "And if I make you happy",
+              "zh": "如果能让你开心"
+            },
+            {
+              "en": "I don't need to do more",
+              "zh": "我也不需要再多做些什么"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "'Cause you make me feel",
+              "zh": "因为你让我感觉"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel like a natural woman",
+              "zh": "你让我感觉自己像一个天生的女人"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "Oh baby what you done to me",
+              "zh": "哦宝贝，你对我做了什么"
+            },
+            {
+              "en": "You make me feel so good inside",
+              "zh": "你让我的内心如此欢愉"
+            },
+            {
+              "en": "And I just wanna be close to you",
+              "zh": "我只想离你更近一些"
+            },
+            {
+              "en": "You make me feel so alive",
+              "zh": "你让我感觉如此鲜活"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel like a natural woman",
+              "zh": "你让我感觉自己像一个天生的女人"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel",
+              "zh": "你让我感觉"
+            },
+            {
+              "en": "You make me feel like a natural woman",
+              "zh": "你让我感觉自己像一个天生的女人"
+            }
+          ]
+        }
+      ],
+      "intro": "拨开阴霾的晨光、重新舒展的心情，在爱与理解中找回真实的自己。",
+      "origin": "1967年首次发行单曲，后收录于1968年专辑《Lady Soul》。"
+    },
+    {
+      "title": "That’s Life",
+      "song_id": "thats-life",
+      "form": "vocal",
+      "writers": "Dean Kay / Kelly Gordon（Frank Sinatra 1966 年版）",
+      "set": "下半场",
+      "order": 13,
+      "sections": [
+        {
+          "lines": [
+            {
+              "en": "That's life (that's life)",
+              "zh": "这就是人生（这就是人生）"
+            },
+            {
+              "en": "That's what all the people say",
+              "zh": "大家都这么说"
+            },
+            {
+              "en": "You're riding high in April, shot down in May",
+              "zh": "四月你还春风得意，五月就被打落谷底"
+            },
+            {
+              "en": "But I know I'm gonna change that tune",
+              "zh": "但我知道我会换个调子唱"
+            },
+            {
+              "en": "When I'm back on top, back on top in June",
+              "zh": "等我六月重新登顶，再登顶"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "I said that's life (that's life)",
+              "zh": "我说，这就是人生（这就是人生）"
+            },
+            {
+              "en": "And as funny as it may seem",
+              "zh": "说来也许有些可笑"
+            },
+            {
+              "en": "Some people get their kicks",
+              "zh": "有些人偏偏以此为乐"
+            },
+            {
+              "en": "Stomping on a dream",
+              "zh": "把别人的梦踩在脚下"
+            },
+            {
+              "en": "But I don't let it, let it get me down",
+              "zh": "可我不让它、不让它把我压垮"
+            },
+            {
+              "en": "'Cause this fine old world, it keeps spinnin' around",
+              "zh": "因为这美好的旧世界，照样转个不停"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "I've been a puppet, a pauper, a pirate, a poet",
+              "zh": "我当过木偶、乞丐、海盗、诗人"
+            },
+            {
+              "en": "A pawn and a king",
+              "zh": "当过小兵，也当过国王"
+            },
+            {
+              "en": "I've been up and down and over and out",
+              "zh": "我起过落过、翻过船也出过局"
+            },
+            {
+              "en": "And I know one thing",
+              "zh": "可我懂一件事"
+            },
+            {
+              "en": "Each time I find myself",
+              "zh": "每当我发觉自己"
+            },
+            {
+              "en": "Flat on my face",
+              "zh": "摔得脸朝地"
+            },
+            {
+              "en": "I pick myself up and get",
+              "zh": "我就爬起来，重新"
+            },
+            {
+              "en": "Back in the race",
+              "zh": "回到赛场"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "That's life (that's life)",
+              "zh": "这就是人生（这就是人生）"
+            },
+            {
+              "en": "I tell you, I can't deny it",
+              "zh": "我跟你说，我没法否认"
+            },
+            {
+              "en": "I thought of quitting, baby",
+              "zh": "我也想过放弃，亲爱的"
+            },
+            {
+              "en": "But my heart just ain't gonna buy it",
+              "zh": "可我的心偏不答应"
+            },
+            {
+              "en": "And if I didn't think it was worth one single try",
+              "zh": "要是觉得连试一下都不值"
+            },
+            {
+              "en": "I'd jump right on a big bird and then I'd fly",
+              "zh": "我早就跳上一只大鸟飞走了"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "I've been a puppet, a pauper, a pirate, a poet",
+              "zh": "我当过木偶、乞丐、海盗、诗人"
+            },
+            {
+              "en": "A pawn and a king",
+              "zh": "当过小兵，也当过国王"
+            },
+            {
+              "en": "I've been up and down and over and out",
+              "zh": "我起过落过、翻过船也出过局"
+            },
+            {
+              "en": "And I know one thing",
+              "zh": "可我懂一件事"
+            },
+            {
+              "en": "Each time I find myself layin'",
+              "zh": "每当我发现自己又一次"
+            },
+            {
+              "en": "Flat on my face",
+              "zh": "摔得脸朝地"
+            },
+            {
+              "en": "I just pick myself up and get",
+              "zh": "我还是爬起来，重新"
+            },
+            {
+              "en": "Back in the race",
+              "zh": "回到赛场"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "en": "That's life (that's life)",
+              "zh": "这就是人生（这就是人生）"
+            },
+            {
+              "en": "That's life and I can't deny it",
+              "zh": "这就是人生，我没法否认"
+            },
+            {
+              "en": "Many times I thought of cutting out, but my heart won't buy it",
+              "zh": "多少次我想一走了之，可我的心不答应"
+            },
+            {
+              "en": "But if there's nothing shaking, come this here July",
+              "zh": "可要是到了这个七月，日子还没一点起色"
+            }
+          ]
+        },
+        {
+          "symbol": "🎶"
+        },
+        {
+          "lines": [
+            {
+              "en": "I'm gonna roll myself up",
+              "zh": "我就把自己蜷起来"
+            },
+            {
+              "en": "In a big ball and die",
+              "zh": "缩成一大团，就这么死去"
+            }
+          ]
+        },
+        {
+          "symbol": "🎶"
+        },
+        {
+          "lines": [
+            {
+              "en": "My, my",
+              "zh": "哎哟，我的天！"
+            }
+          ]
+        }
+      ],
+      "intro": "人生的高光与低谷、得意与失意，跌宕过后，依旧昂首走向下一幕。",
+      "origin": "1963年首次录制，1966年收录于经典同名专辑。"
+    },
+    {
+      "title": "Deep Insight",
+      "title_note": "原创",
+      "song_id": "deep-insight",
+      "form": "instrumental",
+      "writers": "RJ爵士大乐团（原创）",
+      "set": "下半场",
+      "order": 14,
+      "note": "器乐演奏后接：介绍乐团成员、合影、对谈环节",
+      "sections": [],
+      "intro": "穿过纷繁的声音，向内探寻，在旋律与留白之间感受另一种深度。",
+      "origin": "RJ爵士大乐团原创作品。"
+    },
+    {
+      "title": "惊喜曲目",
+      "song_id": "encore-surprise",
+      "form": "mystery",
+      "set": "下半场",
+      "order": 15,
+      "sections": []
+    }
+  ]
+}

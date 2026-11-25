@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN" class="catalogue-document">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="爵妙人生爵士音乐会电子场刊。认识演出者、浏览节目单，圈出三首想在现场留意的曲目。">
+  <title>爵妙人生｜电子场刊</title>
+  <link rel="stylesheet" href="styles.css?v=signature120"><link rel="stylesheet" href="home.css">
+  <script defer src="catalogue.js"></script>
+  <script defer src="app.js?v=signature120"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/kubai-icons@0/dist/cdn/element.js"></script>
+  <script defer src="interview.js"></script>
+</head>
+<body>
+  <div class="catalogue-scroll">
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="site-header">
+    <div class="masthead wrap">
+      <a class="brand" href="#main"><img class="small-wordmark" src="assets/nav-wordmark.webp" alt="爵妙人生"></a>
+      <nav class="catalogue-nav" aria-label="场刊目录">
+        <a href="#quiz"><kubai-icon name="headphones" size="18" trigger="parent" aria-hidden="true"></kubai-icon>小测试</a>
+        <a href="#programme"><kubai-icon name="book-open" size="18" trigger="parent" aria-hidden="true"></kubai-icon>节目单</a>
+        <a href="#concert"><kubai-icon name="info" size="18" trigger="parent" aria-hidden="true"></kubai-icon>介绍</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="home catalogue-page">
+    <div class="wrap catalogue-dark">
+      <section class="concert-poster poster-final" aria-label="爵妙人生音乐会海报">
+        <div class="poster-art">
+          <h1>
+            <picture>
+              <source type="image/webp" media="(max-width: 750px) and (max-resolution: 1.99dppx)" srcset="assets/cover-375.webp 375w, assets/cover-750.webp 750w" sizes="100vw">
+              <img src="assets/poster-master.jpg" width="1280" height="1961" alt="JAZZ Concert · 爵妙人生，苗梦初 Quinn × RJ BigBand，15th Anniversary，2026 年 11 月 28 日 19:30，久事·上海商城剧院" fetchpriority="high">
+            </picture>
+          </h1>
+          <img class="anniversary-signature" src="assets/anniversary-signature.svg" alt="" aria-hidden="true">
+          <a class="poster-down" href="#quiz" aria-label="向下浏览，进入小测试"></a>
+        </div>
+      </section>
+      <section id="quiz" class="spread catalogue-quiz" aria-labelledby="quiz-title">
+        <h2 id="quiz-title">这场音乐会，听哪首？</h2>
+        <div class="listening" data-quiz aria-label="曲目推荐互动">
+          <noscript><p>请开启 JavaScript 参与互动。</p></noscript>
+        </div>
+      </section>
+    </div>
+    <div class="catalogue-paper">
+      <div class="wrap">
+        <section id="programme" class="spread" aria-labelledby="programme-title">
+          <h2 id="programme-title" class="cat-heading">节目单<span class="cat-rule" aria-hidden="true"><kubai-icon name="paw" size="18" color="#782b37"></kubai-icon></span></h2>
+          <p class="programme-hint">点亮左侧图标，标记期待曲目~<br>点击右侧曲名，查看歌曲详情~</p>
+          <div class="programme-grid" data-programme></div>
+          <noscript><p>请开启 JavaScript 查看完整曲目。</p></noscript>
+        </section>
+        <section id="concert" class="spread" aria-labelledby="concert-title">
+          <h2 id="concert-title">音乐会介绍</h2>
+          <div class="prose">
+            <p>从校园排练厅到爵士舞台，<br>从第一次合作到十几年的默契相视，<br>苗梦初与RJ爵士大乐团，<br>早已是彼此音乐路上最熟悉的老友。</p>
+            <p>这一晚，<br>只用大乐团的铜管、节奏与人声，<br>把十几年来的信任、成长与热爱，<br>完整地交还给舞台，<br>共同见证「爵妙人生」的又一章。</p>
+          </div>
+          <section class="feature performer">
+            <img src="assets/portrait.jpg" alt="苗梦初坐在剧场观众席" loading="lazy">
+            <div class="prose">
+              <h3>苗梦初</h3>
+              <p>演员/歌手，毕业于上海音乐学院音乐剧系本科，英国皇家音乐学院硕士。<br>2023年东方卫视音乐剧综艺《爱乐之都·青春季》总冠军；湖南卫视《声鸣远扬2025》全国8强。</p>
+            </div>
+          </section>
+          <div class="production-stills" aria-label="苗梦初音乐剧剧照">
+            <figure><img src="assets/wind.jpg" alt="《风声》中的苗梦初" loading="lazy"><figcaption>《风声》剧照</figcaption></figure>
+            <figure><img src="assets/macbeth.jpg" alt="《麦克白夫人》中的苗梦初" loading="lazy"><figcaption>《Lady M（麦克白夫人）》剧照</figcaption></figure>
+            <figure><img src="assets/female-male.jpg" alt="《雌雄》中的苗梦初" loading="lazy"><figcaption>《雌雄》剧照</figcaption></figure>
+          </div>
+          <section class="feature band">
+            <img src="assets/band.jpg" alt="RJ 爵士大乐团成员与乐器合影" loading="lazy">
+            <div class="prose">
+              <h3>RJ爵士大乐队</h3>
+              <p>2011年9月成立于上海，目前分为18人编制爵士大乐团和10人编流行乐团两套班底。是全国成立时间最久、成员最多的大乐团之一。2022年起签约爱乐汇，目前在全国16个省市自治区演出300余场。</p>
+              <p>团长顾伊欣，历任音乐总监；<br>指挥：萨克斯演奏家、教育家、作曲家钱瑜先生，人声艺术家、教育家孙莉莎女士；<br>现任音乐总监、指挥：萨克斯演奏家、教育家薛岳先生。</p>
+              <p>乐团除了在爵士音乐艺术道路上追求高品质，演出曲目涵盖了从美国30年代传统爵士乐及大乐团黄金时期，到当今的流行、放克、摇滚等多种音乐风格。</p>
+            </div>
+          </section>
+          <figure class="anniversary-film">
+            <button class="film-cover" type="button" aria-label="播放 Quinn x RJ talking" data-src="https://sns-v27.rednotecdn.com/stream/79/110/258/01eb011aaf2f0e9e4f037001a1fc55665c_258.mp4">
+              <img src="assets/quinn-rj-talking.png" width="1085" height="610" loading="lazy" alt="">
+            </button>
+            <figcaption><span lang="en">Quinn x RJ talking</span><a href="https://www.xiaohongshu.com/discovery/item/6b011b62000000001802571b?source=webshare&amp;xhsshare=pc_web&amp;xsec_token=ABg8fhIaQf3G-JSwnilUGgwHMky91fL5MuMbz8WA7qrNc=&amp;xsec_source=pc_share" target="_blank" rel="noopener noreferrer">去小红书打开</a></figcaption>
+          </figure>
+        </section>
+      </div>
+    </div>
+  </main>
+  </div>
+</body>
+</html>

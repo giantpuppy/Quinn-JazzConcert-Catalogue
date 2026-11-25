@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#efdfc3">
+  <title>节目详情｜爵妙人生</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="catalogue.js"></script>
+  <script defer src="song-content.js"></script>
+  <script defer src="song.js"></script>
+</head>
+<body class="song-page">
+  <a class="skip" href="#song-title">跳到曲目正文</a>
+  <nav class="song-top"><a id="song-back" href="index.html#programme" aria-label="返回节目单"><span aria-hidden="true">‹</span><img src="assets/nav-wordmark.webp" alt="爵妙人生"></a><b lang="en">Quinn x RJ BigBand</b></nav>
+  <main>
+    <header class="song-hero">
+      <div class="song-player">
+        <div class="song-record"><span id="song-label"></span></div>
+        <nav class="song-controls" aria-label="切换曲目">
+          <a id="song-prev" aria-label="上一首">‹</a>
+          <span id="song-count"></span>
+          <a id="song-next" aria-label="下一首">›</a>
+        </nav>
+      </div>
+      <div class="song-copy">
+        <h1 id="song-title" tabindex="-1"></h1>
+        <p id="song-intro"></p>
+        <p id="song-origin"></p>
+      </div>
+    </header>
+    <section class="song-reading" hidden>
+      <div class="song-reading-head">
+        <h2>LYRICS</h2>
+        <div class="song-switch" role="group" aria-label="歌词语言">
+          <button type="button" aria-pressed="true">原版</button>
+          <button type="button" aria-pressed="false">双语</button>
+        </div>
+      </div>
+      <div id="song-lyrics"></div>
+      <footer class="song-rights">原词节选仅供回味，爵士现场即兴至上，一切以当日演出编排为准。</footer>
+    </section>
+    <section class="song-placeholder" hidden>
+      <span id="placeholder-symbol" aria-hidden="true"></span>
+      <h2 id="placeholder-title"></h2>
+      <p id="placeholder-text"></p>
+    </section>
+  </main>
+</body>
+</html>
